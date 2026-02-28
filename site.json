@@ -1,12 +1,13 @@
 {
-  "business_name": "Your Business Name",
-  "headline": "Main headline goes here",
-  "subheadline": "Short supporting sentence explaining the offer",
-  "cta_text": "Get Started",
-  "cta_link": "#",
+  "business_name": "Hounslow Plumbing & Heating",
+  "headline": "Emergency plumber in Hounslow",
+  "subheadline": "Leaks, boilers, blocked drains — quick response when available.",
+  "cta_text": "Call now",
+  "cta_link": "tel:+442000000000",
   "features": [
-    "First key benefit",
-    "Second key benefit",
-    "Third key benefit"
+    "Same-day callouts when engineers are available",
+    "Boiler, leak, and drain issues handled in one visit when possible",
+    "Clear pricing agreed before work starts",
+    "Local Hounslow team with practical advice"
   ]
 }
